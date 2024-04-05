@@ -1,8 +1,8 @@
 [{
     "name": "bla",
     "version": "1.0.0",
-    "dl-link": "file:///home/vima/Documents/autisticpackager/packages.json",
-    "hash-sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "dl-link": "https://github.com/m3z0id/AP-packages/raw/main/bla",
+    "hash-sha256": "dcfa237943d4fd7e2a514ca54642efaccd2cdbd5003bfb19a1e70737273e1190",
     "args": "none",
     "desc": "henlo"
 }]
