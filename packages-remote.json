@@ -4,7 +4,7 @@
             "args": "none",
             "desc": "its like... a pfetch clone but for reverse and also like... autistic.",
             "dl-link": "https://raw.githubusercontent.com/StefanTheFork/reverseproject/main/packages/funnifetch.py",
-            "hash-sha256": "ce3621d1bf21a4a12582c5272a9e69d0bd99ef252bbb11f4cb2573f6b283a898",
+            "hash-sha256": "2ef1e8160a375840a38ea5d0d5aad900cee91704aa0f6fa20036fcaab5997fb2",
             "name": "funnifetch.py",
             "version": "v1"
         },
