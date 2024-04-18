@@ -27,7 +27,7 @@
         {
             "args": "<number> [mode]",
             "desc": "A command utility to confuse people when counting.",
-            "dl-link": "https://github.com/m3z0id/M3z0idClient/releases/download/v1.1.0/M3z0idClient",
+            "dl-link": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/778514320/3e121c7f-27de-4492-be5a-4b121113baae?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240418T223916Z&X-Amz-Expires=300&X-Amz-Signature=036170468ebb285fae5be3d1fa6dbc4edf0780c91c0bafe8b748e0bec834daf1&X-Amz-SignedHeaders=host&actor_id=101597046&key_id=0&repo_id=778514320&response-content-disposition=attachment%3B+filename%3DM3z0idClient&response-content-type=application%2Foctet-stream",
             "hash-sha256": "268cd39a4ab5bd6e846af2c36de4e503fc8a81c4942fe14495a13828b53b3b3a",
             "name": "M3z0idClient",
             "version": "1.1.0"
