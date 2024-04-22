@@ -36,7 +36,7 @@
             "args": "[install/update/remove/listpkg] <package (optional)>",
             "desc": "Package manager for reverse reborn",
             "dl-link": "https://raw.githubusercontent.com/m3z0id/AP-packages/main/ap.py",
-            "hash-sha256": "54f46f00084e7b16642dee1a11436d92292a7dca38663567599edc98b0bd098b",
+            "hash-sha256": "e0438c6caf2d57de35d5e776d95bd9c9af5a97e0e0f8e74d22ab388199f0a931",
             "name": "ap.py",
             "version": "1.0.0"
         }
