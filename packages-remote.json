@@ -31,6 +31,14 @@
             "hash-sha256": "5e6f524e8aca487082b03956cdb0756aaa6d34cc2bd6f7c121883f7b3fbc3ea0",
             "name": "M3z0idClient",
             "version": "1.1.0"
+        },
+        {
+            "args": "[install/update/remove/listpkg] <package (optional)>",
+            "desc": "Package manager for reverse reborn",
+            "dl-link": "https://raw.githubusercontent.com/m3z0id/AP-packages/main/ap.py",
+            "hash-sha256": "54f46f00084e7b16642dee1a11436d92292a7dca38663567599edc98b0bd098b",
+            "name": "AP",
+            "version": "1.0.0"
         }
     ]
 }
