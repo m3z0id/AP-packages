@@ -20,7 +20,7 @@
             "args": "none",
             "desc": "reverse reborn base",
             "dl-link": "https://raw.githubusercontent.com/StefanTheFork/reverseproject/main/base.py",
-            "hash-sha256": "2a50744cc58d4082eae9e3eb9eed40cc01af70ddf7c98945d3000f4cdd667fa1",
+            "hash-sha256": "c11823dd9c0e72514e96119d5f4743045ee13f0a191df9d02fb439cbe9a987b8",
             "name": "base.py",
             "version": "v0.8.1"
         },
